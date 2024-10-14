@@ -23,7 +23,9 @@ The code will demonstrate classification tasks **Task 1: Auto-Labelling System**
 
 **Steps involved**
  
-Assemble and explore data
-Derive prompts
-Evaluate prompts
+1. Assemble and explore data
+2. Derive prompts
+3. Evaluate prompts
 
+**Data set used** 
+Auto_labeling.csv
